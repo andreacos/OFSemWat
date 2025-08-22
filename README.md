@@ -21,19 +21,19 @@ Available soon!
 
 <img src="examples/example_1.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >An airplane flies low near modern skyscrapers in a dense city. The glass buildings reflect sunlight, and the sky is partly cloudy. The perspective emphasizes the dramatic proximity of the plane and towers.
 
 ### AI inpainting 2
 <img src="examples/example_2.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >This image depicts soldiers raising the American flag atop a rocky hill, resembling the iconic Iwo Jima flag-raising. The scene conveys patriotism, bravery, and historical military significance.
 
 ### AI inpainting 3
 <img src="examples/example_3.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >A serene young woman in a flowing beige gown, sitting and cradling a newborn baby in her lap. Warm sunlight filters through, casting a soft glow, evoking classic Madonna and Child iconography.
 
 
@@ -46,38 +46,38 @@ Prompt
 ### AI inpainting 5
 <img src="examples/example_5.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >The image depicts a stern military officer in a decorated green uniform holding hands with a young child clutching a teddy bear. The setting appears historical, with a North Korean flag and vintage street signs.
 
 ### AI inpainting 6
 <img src="examples/example_6.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >A sharp-dressed man in a black tuxedo and bow tie holds a handgun near his face, exuding a secret agent or spy vibe. His serious expression and poised stance suggest confidence and danger.
 
 ### AI inpainting 7
 <img src="examples/example_7.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >An old, abandoned gas station with faded red pumps and graffiti-covered walls sits along a desolate road. A vintage red pickup truck is parked nearby, with mountains in the background under a clear sky.
 
 ### AI inpainting 8
 <img src="examples/example_8.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >A rebellious woman with a striking pink mohawk sits against a graffiticovered wall dressed in ripped black clothing adorned with tattoos and layered jewelry she exudes a fierce and edgy punk aesthetic.
 
 ### AI inpainting 9
 <img src="examples/example_9.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >The image shows a businesswoman leading a presentation in a high-rise office at sunset, with graphs on screens behind her. She addresses a group of professionals seated around a glass conference table.
 
 
 ### AI inpainting 10
 <img src="examples/example_10.jpg" width="1000"/>
 
-Prompt:
+Embedded watermark:
 >The image shows a decadent three-layer chocolate cake with rich chocolate frosting and a glossy ganache dripping down the sides. It's topped with fresh raspberries and gold sprinkles, set in a modern kitchen.
 
 
