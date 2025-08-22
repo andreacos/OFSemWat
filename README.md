@@ -15,6 +15,12 @@ Available soon!
 
 # AI based inpainting examples
 
+For each image, from left to right, we show:
+- The input, to-be-watermarked image
+- The watermarked image. The embedded watermark is a brief description of the image itself (200 characters) encoded to a binary sequence of 1000 bits. Below each sequence of figures we report the textual version of the watermark.
+- The watermarked, edited image. Specifically, the image was semantically modified using prompt-based AI inpainting within [Freepik's AI suite](https://www.freepik.com/pikaso/image-editor).
+- A binary mask highlighting the modified region (that is the binarised difference between watermarked and edited image, without further morphological operators). Above the mask, we report the percentage of modified pixels.
+
 ## Examples
 
 ### AI inpainting 1
