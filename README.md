@@ -22,7 +22,6 @@ Available soon!
 <img src="examples/example_1.jpg" width="1000"/>
 
 Prompt:
-
 >An airplane flies low near modern skyscrapers in a dense city. The glass buildings reflect sunlight, and the sky is partly cloudy. The perspective emphasizes the dramatic proximity of the plane and towers.
 
 ### AI inpainting 2
