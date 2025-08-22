@@ -11,7 +11,7 @@ OF-SemWat: robust semantic text watermarking of ai-generated images of arbitrary
 
 # Algorithm implementation
 
-Available soon!
+An implementation of the watermarking algorithm and the scripts to replicate the results with be released upon publication of the paper.
 
 # AI based inpainting examples
 
@@ -88,6 +88,8 @@ Embedded watermark:
 
 
 ## Watermark recovery
+
+Here we report BER(%) following watermark recovery in the AI-inpainted, watermarked images.
 
 | Image | Size | Watermark_orig | BER (%) | Bit errors | 
 |-----|------|----------------|---------|------------|
