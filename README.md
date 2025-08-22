@@ -35,7 +35,7 @@ Prompt:
 <img src="examples/example_3.jpg" width="1000"/>
 
 Prompt:
->Look at this image and compare it to this textual description: "A serene young woman in a flowing beige gown, sitting and cradling a newborn baby in her lap. Warm sunlight filters through, casting a soft glow, evoking classic Madonna and Child iconography." Does the description look aligned to the image content?
+>A serene young woman in a flowing beige gown, sitting and cradling a newborn baby in her lap. Warm sunlight filters through, casting a soft glow, evoking classic Madonna and Child iconography.
 
 
 ### AI inpainting 4
@@ -48,26 +48,25 @@ Prompt
 <img src="examples/example_5.jpg" width="1000"/>
 
 Prompt:
->Look at this image and compare it to this textual description: '_The image depicts a stern military officer in a decorated green uniform holding hands with a young child clutching a teddy bear. The setting appears historical, with a North Korean flag and vintage street signs._' Does the description look aligned to the image content?
+>The image depicts a stern military officer in a decorated green uniform holding hands with a young child clutching a teddy bear. The setting appears historical, with a North Korean flag and vintage street signs.
 
 ### AI inpainting 6
 <img src="examples/example_6.jpg" width="1000"/>
 
 Prompt:
->Look at this image and compare it to this textual description: 'A sharp-dressed man in a black tuxedo and bow tie holds a handgun near his face, exuding a secret agent or spy vibe. His serious expression and poised stance suggest confidence and danger.'. Does the description look aligned to the image content?
-
+>A sharp-dressed man in a black tuxedo and bow tie holds a handgun near his face, exuding a secret agent or spy vibe. His serious expression and poised stance suggest confidence and danger.
 
 ### AI inpainting 7
 <img src="examples/example_7.jpg" width="1000"/>
 
 Prompt:
->Look at this image and compare it to this textual description: "_An old, abandoned gas station with faded red pumps and graffiti-covered walls sits along a desolate road. A vintage red pickup truck is parked nearby, with mountains in the background under a clear sky._" Does the description look aligned to the image content?
+>An old, abandoned gas station with faded red pumps and graffiti-covered walls sits along a desolate road. A vintage red pickup truck is parked nearby, with mountains in the background under a clear sky.
 
 ### AI inpainting 8
 <img src="examples/example_8.jpg" width="1000"/>
 
 Prompt:
->Look at this image and compare it to this textual description: "_A rebellious woman with a striking pink mohawk sits against a graffiticovered wall dressed in ripped black clothing adorned with tattoos and layered jewelry she exudes a fierce and edgy punk aesthetic._". Anything comes up?
+>A rebellious woman with a striking pink mohawk sits against a graffiticovered wall dressed in ripped black clothing adorned with tattoos and layered jewelry she exudes a fierce and edgy punk aesthetic.
 
 ### AI inpainting 9
 <img src="examples/example_9.jpg" width="1000"/>
@@ -80,7 +79,7 @@ Prompt:
 <img src="examples/example_10.jpg" width="1000"/>
 
 Prompt:
->Look at this image and compare it to this textual description: "_The image shows a decadent three-layer chocolate cake with rich chocolate frosting and a glossy ganache dripping down the sides. It's topped with fresh raspberries and gold sprinkles, set in a modern kitchen
+>The image shows a decadent three-layer chocolate cake with rich chocolate frosting and a glossy ganache dripping down the sides. It's topped with fresh raspberries and gold sprinkles, set in a modern kitchen.
 
 
 ## Watermark recovery
