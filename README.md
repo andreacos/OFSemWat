@@ -71,7 +71,7 @@ Prompt:
 <img src="examples/example_9.jpg" width="1000"/>
 
 Prompt:
->Look at this image and compare it to this textual description: "_The image shows a businesswoman leading a presentation in a high-rise office at sunset, with graphs on screens behind her. She addresses a group of professionals seated around a glass conference table._" Do you see any differences?
+>The image shows a businesswoman leading a presentation in a high-rise office at sunset, with graphs on screens behind her. She addresses a group of professionals seated around a glass conference table.
 
 
 ### AI inpainting 10
