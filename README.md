@@ -7,7 +7,7 @@ OF-SemWat: robust semantic text watermarking of ai-generated images of arbitrary
 2. [AI based inpainting examples](#ai-based-inpainting-examples)
    1. [Examples](#examples)
    2. [Watermark recovery](#watermark-recovery)
-3. [Additional results](#additional-results)
+3. [Watermark recovery via LLM](#watermark-recovery-via-llm)
 
 # Algorithm implementation
 
@@ -104,7 +104,7 @@ Here we report BER(%) following watermark recovery in the AI-inpainted, watermar
 |  9  |1024x1024|The image shows a businesswoman leading a presentation in a high-rise office at sunset, with graphs on screens behind her. She addresses a group of professionals seated around a glass conference table.| 0.00| 0/1000|            
 |  10 |1024x1024|The image shows a decadent three-layer chocolate cake with rich chocolate frosting and a glossy ganache dripping down the sides. It's topped with fresh raspberries and gold sprinkles, set in a modern kitchen.| 0.00| 0/1000|   
 
-## Additional results
+## Watermark recovery via LLM
 
 | Image | Ber | Processing | Parameter | Sim_orig_gpt | Sim_orig_rec | Delta_sim | BER |
 |-------|-----|------------|-----------|--------------|--------------|-----------|-----|
