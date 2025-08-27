@@ -1,6 +1,10 @@
 # OFSemWat
 OF-SemWat: robust semantic text watermarking of ai-generated images of arbitrary resolution
 
+>OF-SemWat: ROBUST SEMANTIC TEXT WATERMARKING OF AI-GENERATED IMAGES OF ARBITRARY RESOLUTION
+Benedetta Tondi, Andrea Costanzo, Mauro Barni
+
+
 # Summary 
 
 1. [Algorithm implementation](#algorithm-implementation)
@@ -26,7 +30,9 @@ For each image, from left to right, we show:
 - The input, to-be-watermarked image
 - The watermarked image. The embedded watermark is a brief description of the image itself (200 characters) encoded to a binary sequence of 1000 bits. Below each sequence of figures we report the textual version of the watermark.
 - The watermarked, edited image. Specifically, the image was semantically modified using prompt-based AI inpainting within [Freepik's AI suite](https://www.freepik.com/pikaso/image-editor).
-- A binary mask highlighting the modified region. This mask is the binarised difference between watermarked and edited image, without further morphological operators. Above the mask, we report the percentage of modified pixels.
+- A binary mask highlighting the modified region. The mask is the binarised difference between watermarked and edited image, without further morphological operators, just for the sake of visualization. Above the mask, we report the percentage of modified pixels.
+
+The BER(%) for all te images following the AI-inpainting is 0 for all the images except image 6 (BER 1.4%). See below for more details.
 
 ### AI inpainting 1
 
