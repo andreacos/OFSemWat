@@ -3,6 +3,7 @@
 This repository contains additional information / material for the paper:
 
 _OF-SemWat: ROBUST SEMANTIC TEXT WATERMARKING OF AI-GENERATED IMAGES OF ARBITRARY RESOLUTION_
+
 Benedetta Tondi, Andrea Costanzo, Mauro Barni
 
 
@@ -19,7 +20,7 @@ Benedetta Tondi, Andrea Costanzo, Mauro Barni
 An implementation of the watermarking algorithm and the scripts to replicate the results with be released upon publication of the paper.
 
 ```
-Tools available soon!
+Code and tools available soon
 ```
 
 
