@@ -11,7 +11,11 @@ OF-SemWat: robust semantic text watermarking of ai-generated images of arbitrary
 
 # Algorithm implementation
 
+
+```
 An implementation of the watermarking algorithm and the scripts to replicate the results with be released upon publication of the paper.
+```
+
 
 # AI based inpainting examples
 
