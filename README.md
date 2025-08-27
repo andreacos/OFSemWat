@@ -119,6 +119,14 @@ Here we report BER(%) following watermark recovery in the AI-inpainted, watermar
 
 ## Watermark recovery via LLM
 
+- *Image*: Image index
+- *Ber*: Watermark recovery BER(%) following processing
+- *Processing*: The image processing that was applied to the image
+- *Parameter*: The parameter of the processing (e.g. Quality Factor for JPEG, resizing factor for up/down scaling)
+- *Sim_orig_rec*: all-MiniLM-L6-2 similarity between the originally embedded watermark and the recovered watermark prior to ChatGPT reconstruction
+- *Sim_orig_gpt*: all-MiniLM-L6-2 similarity between the originally embedded watermark and ChatGPT reconstructon
+- *Delta_sim*: the similarity variation between *Sim_orig_rec* and *Sim_orig_gpt*
+
 | Image | Ber | Processing | Parameter | Sim_orig_gpt | Sim_orig_rec | Delta_sim | BER |
 |-------|-----|------------|-----------|--------------|--------------|-----------|-----|
 | 8     | 23  | ROTATE     | 5.0       | 0,054        | 0,0060       | 0,048     | 23  |
