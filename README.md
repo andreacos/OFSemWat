@@ -1,7 +1,8 @@
 # OFSemWat
-OF-SemWat: robust semantic text watermarking of ai-generated images of arbitrary resolution
 
->OF-SemWat: ROBUST SEMANTIC TEXT WATERMARKING OF AI-GENERATED IMAGES OF ARBITRARY RESOLUTION
+This repository contains additional information / material for the paper:
+
+OF-SemWat: ROBUST SEMANTIC TEXT WATERMARKING OF AI-GENERATED IMAGES OF ARBITRARY RESOLUTION
 Benedetta Tondi, Andrea Costanzo, Mauro Barni
 
 
