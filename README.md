@@ -2,7 +2,7 @@
 
 This repository contains additional information / material for the paper:
 
-_OF-SemWat: ROBUST SEMANTIC TEXT WATERMARKING OF AI-GENERATED IMAGES OF ARBITRARY RESOLUTION_
+**_OF-SemWat: ROBUST SEMANTIC TEXT WATERMARKING OF AI-GENERATED IMAGES OF ARBITRARY RESOLUTION_**
 
 Benedetta Tondi, Andrea Costanzo, Mauro Barni
 
