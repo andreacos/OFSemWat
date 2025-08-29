@@ -1,4 +1,4 @@
-# OFSemWat
+# OF-SemWat: Robust Semantic Text Watermarking of AI-generated 
 
 This repository contains additional information / material for the paper:
 
