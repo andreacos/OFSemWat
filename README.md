@@ -119,6 +119,10 @@ Here we report BER(%) following watermark recovery in the AI-inpainted, watermar
 
 ## Watermark recovery via LLM
 
+In this Section, we report all the results regarding the correction of the extracted watermark, corrupted by image processing, by resorting to ChatGpt 4.
+
+Table 1:
+
 - **Image**: Image index according to the previous Section 
 - **Processing**: The image processing that was applied to the image
 - **Parameter**: The parameter of the processing (e.g. Quality Factor for JPEG, resizing factor for up/down scaling, angle for rotation etc.)
