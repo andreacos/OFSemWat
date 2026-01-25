@@ -14,6 +14,9 @@ Benedetta Tondi, Andrea Costanzo, Mauro Barni
    1. [Examples](#examples)
    2. [Watermark recovery](#watermark-recovery)
 3. [Watermark recovery via LLM](#watermark-recovery-via-llm)
+4. [Additional material](#additional-material)
+   1. [Processing times](#processing-times)
+   2. [PSNR](#psnr)
 
 # Algorithm implementation
 
@@ -230,5 +233,9 @@ In this Section, we report all the results regarding the correction of the extra
 | 2     | CROP       | 10.0      | 1   | 0,9554       | 0,999        | 0,043     | This image depicts soldiers raising the American flag atop a rocky hill, resembling the iconic Iwo Jima flag-raising. The scene conveys patriotism, bravery, and historical military significance.                  | this imagemtepicts soldiers raising the american flag atop a rocky hill resembling the iconic iwo jima flagraising the scenegconveys patriotism braveryaynd historical military significance                 | This image depicts soldiers raising the American flag atop a rocky hill resembling the iconic Iwo Jima flag raising. The scene conveys patriotism, bravery, and historical military significance.                                                                                                                                             |
 | 7     | RESIZE     | 0.7       | 1   | 0,9591       | 0,925        | -0,034    | An old, abandoned gas station with faded red pumps and graffiti-covered walls sits along a desolate road. A vintage red pickup truck is parked nearby, with mountains in the background under a clear sky.          | an old abandoned gas station with faded regppumps and graffiticovered walls sits along a desolate road a vintage red pi a                                                                                    | An old abandoned gas station with faded red pumps and graffiti-covered walls sits along a desolate road, a vintage red pickup.                                                                                                                                                                                                                |
 
+# Additional material
 
+## Processing times
+
+## PSNR
 
