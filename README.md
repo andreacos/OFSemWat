@@ -292,6 +292,32 @@ The computational cost of the LLM operation is modest. We query OpenAI-APIs with
 | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
 | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
 
+### JPEG and Gaussian noise average PSNR
 
+
+| JPEG Quality | Avg PSNR |
+|-------------|----------|
+| 5           | 30.38    |
+| 10          | 31.84    |
+| 20          | 33.01    |
+| 30          | 33.69    |
+| 40          | 34.22    |
+| 50          | 34.73    |
+| 60          | 35.28    |
+| 70          | 36.09    |
+| 80          | 37.50    |
+| 90          | 40.93    |
+| 100         | 56.77    |
+|**Overall average PSNR:**| 35.80|
+
+| Std.Dev. | Avg PSNR |
+|-----------|----------|
+| STD2      | 44.76    |
+| STD5      | 37.65    |
+| STD10     | 32.39    |
+| STD15     | 30.51    |
+| STD20     | 29.68    |
+| STD25     | 29.22    |
+| GAUSSIAN_NOISE (avg) | 34.04 |
 
 
