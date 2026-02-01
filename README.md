@@ -239,10 +239,20 @@ In this Section, we report all the results regarding the correction of the extra
 
 ## PSNR
 
+### AI-generated images
+
 | QF=05  | QF=10 | QF=20 | QF=30 | QF=40 |
 |--------|--------|--------|--------|--------|
 | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
 | <img src="examples/jpeg/ai_dataset/other/082845_00001__wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/082845_00001__wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/082845_00001__wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/082845_00001__wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/082845_00001__wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
 | <img src="examples/jpeg/ai_dataset/other/142617_00001__wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/142617_00001__wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/142617_00001__wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/142617_00001__wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/142617_00001__wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
+
+### RAISE-1K imges
+
+| QF=05  | QF=10 | QF=20 | QF=30 | QF=40 |
+|--------|--------|--------|--------|--------|
+| <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/ai_dataset/other/091950_00001__wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
+
+
 
 
