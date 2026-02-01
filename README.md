@@ -244,12 +244,12 @@ The watermarking algorithm is implemented in C++ and is fully optimized in such 
 | Processing        | Avg elapsed (seconds) |
 |------------------|-----------------------|
 | CROP             | 0.112147402           |
-| JPEG             | 0.227812000           |
 | GAUSSIAN_NOISE   | 0.118486500           |
+| JPEG             | 0.227812000           |
 | RESIZE          | 0.335409182           |
 | **Average (all)**| **0.173753771**       |
 
-## Average extraction time by image size **1256×834** *(RAISE-1K downsampled)*
+### Average extraction time by image size **1256×834** *(RAISE-1K downsampled)*
 
 | Processing        | Avg elapsed (seconds) |
 |------------------|-----------------------|
@@ -259,7 +259,7 @@ The watermarking algorithm is implemented in C++ and is fully optimized in such 
 | RESIZE           | 0.356652066           |
 | **Average (all)**| **0.281159283**       |
 
-## Average extraction time by image size **2512×1668** *(RAISE-1K full resolution)*
+### Average extraction time by image size **2512×1668** *(RAISE-1K full resolution)*
 
 | Processing        | Avg elapsed (seconds) |
 |------------------|-----------------------|
@@ -270,7 +270,7 @@ The watermarking algorithm is implemented in C++ and is fully optimized in such 
 | **Average (all)**| **2.322063421**       |
 
 
-Concerning the OpenAI API request times:
+### OpenAI API request times:
  
 The computational cost of the LLM operation is modest. We query OpenAI-APIs with a downsampled version of the image (400×400) and short textual inputs: the end-to-end processing time is on the order of a few hundred milliseconds (≈0.4–0.8 s in our experimental setup), with the core model inference accounting for a small fraction of this time. Moreover, the algorithm is highly robust to noise when recovering the watermark, allowing correct reconstruction in the vast majority of cases. As a result, verification through external API calls is required only in a limited subset of samples, further reducing the average computational.
 
