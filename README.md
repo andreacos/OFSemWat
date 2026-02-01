@@ -243,11 +243,11 @@ The watermarking algorithm is implemented in C++ and is fully optimized in such 
 
 | Processing        | Avg elapsed (seconds) |
 |------------------|-----------------------|
-| ADVCROP          | 0.235409182           |
 | CROP             | 0.112147402           |
 | JPEG             | 0.227812000           |
 | GAUSSIAN_NOISE   | 0.118486500           |
-| **Average (all)**| **0.173463771**       |
+| RESIZE          | 0.335409182           |
+| **Average (all)**| **0.173753771**       |
 
 ## Average extraction time by image size **1256×834** *(RAISE-1K downsampled)*
 
