@@ -237,6 +237,43 @@ In this Section, we report all the results regarding the correction of the extra
 
 ## Processing times
 
+The watermarking algorithm is implemented in C++ and is fully optimized in such a way to minimize both CPU and memory usage. As one can see from the table below, the algorithm is extremely fast even when running on quite old machine such as an Intel Core i7-6850K CPU@3.60GHz, 16GB RAM, Windows 11 x64.
+
+### Average extraction time by image size **1024×1024** *(AI dataset 100)*
+
+| Processing        | Avg elapsed (seconds) |
+|------------------|-----------------------|
+| ADVCROP          | 0.235409182           |
+| CROP             | 0.112147402           |
+| JPEG             | 0.227812000           |
+| GAUSSIAN_NOISE   | 0.118486500           |
+| **Average (all)**| **0.173463771**       |
+
+## Average extraction time by image size **1256×834** *(RAISE-1K downsampled)*
+
+| Processing        | Avg elapsed (seconds) |
+|------------------|-----------------------|
+| CROP             | 0.269839868           |
+| GAUSSIAN_NOISE   | 0.129755712           |
+| JPEG             | 0.245354595           |
+| RESIZE           | 0.356652066           |
+| **Average (all)**| **0.281159283**       |
+
+## Average extraction time by image size **2512×1668** *(RAISE-1K full resolution)*
+
+| Processing        | Avg elapsed (seconds) |
+|------------------|-----------------------|
+| CROP             | 5.608275770           |
+| GAUSSIAN_NOISE   | 0.959689542           |
+| JPEG             | 1.201700632           |
+| RESIZE           | 2.548017433           |
+| **Average (all)**| **2.322063421**       |
+
+
+Concerning the OpenAI API request times:
+ 
+The computational cost of the LLM operation is modest. We query OpenAI-APIs with a downsampled version of the image (400×400) and short textual inputs: the end-to-end processing time is on the order of a few hundred milliseconds (≈0.4–0.8 s in our experimental setup), with the core model inference accounting for a small fraction of this time. Moreover, the algorithm is highly robust to noise when recovering the watermark, allowing correct reconstruction in the vast majority of cases. As a result, verification through external API calls is required only in a limited subset of samples, further reducing the average computational.
+
 ## PSNR
 
 ### AI-generated images
