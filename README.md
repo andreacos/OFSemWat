@@ -253,6 +253,7 @@ In this Section, we report all the results regarding the correction of the extra
 |--------|--------|--------|--------|--------|
 | <img src="examples/jpeg/raise1k/r0a72568ct_wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r0a72568ct_wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r0a72568ct_wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r0a72568ct_wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r0a72568ct_wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
 | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r110b4219t_wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
+| <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_5.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_10.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_20.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_30.jpg" width="300" /> | <img src="examples/jpeg/raise1k/r1104e9e6t_wat-0-3-1024.png_JPEG_40.jpg" width="300" /> |
 
 
 
